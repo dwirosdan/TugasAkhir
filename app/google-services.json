@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338414018690",
+    "firebase_url": "https://cerita-742cf.firebaseio.com",
+    "project_id": "cerita-742cf",
+    "storage_bucket": "cerita-742cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338414018690:android:8258402c25241374",
+        "android_client_info": {
+          "package_name": "com.example.rosdan.dwi.ceritadunia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338414018690-vea5airv4jqaejtfsttqsnl4bvs70ctd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_wJkAkdyP_Dl5P3JmMYHnFb-MdmF_Rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
